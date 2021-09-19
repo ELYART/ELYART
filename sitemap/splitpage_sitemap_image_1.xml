@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator, URLs: 4 Generated at: 2021-09-19 14:37:20 -->
+
+  <url>
+    <loc>https://www.elyart.cn/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/about.jpg</image:loc>
+<image:caption>image</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/image1.jpg</image:loc>
+<image:caption>image</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/image2.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/testimonials.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://www.elyart.cn/about.html</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/image3.jpg</image:loc>
+<image:caption>image</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team1.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team2.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team3.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team4.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team5.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/team6.jpg</image:loc>
+</image:image>
+  </url>
+
+  <url>
+    <loc>https://www.elyart.cn/contact.html</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/office.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/envelope.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/support.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://www.elyart.cn/assets/images/time.png</image:loc>
+</image:image>
+  </url>
+
+</urlset>
