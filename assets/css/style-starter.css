@@ -11095,7 +11095,7 @@ button.submit-contact:hover {
 
 /* middle */
 .middle {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(../images/banner1.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -11572,7 +11572,7 @@ button.owl-next {
 .breadcrumb-bg-about {
   margin-top: 95px;
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/banner2.jpg);
+  background-image: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/banner1.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
